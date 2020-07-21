@@ -1,9 +1,13 @@
 # PyCalculator
 PyCalculator is a calculator used for various types of calculations which is coded in Python programming language. Read this document in order to learn how
 to use the application.
+Author: CreativeCloudAppDev2020
 
 ### Executable File
 The executable file "PyCalculator.exe" is used to run the application. It is downloadable from https://github.com/CreativeCloudAppDev2020/PyCalculator/blob/master/executable/PyCalculator.exe.
+
+### Source Code
+Python code used to create the application is available in https://github.com/CreativeCloudAppDev2020/PyCalculator/blob/master/code/PyCalculator.py.
 
 ### Getting Started
 
