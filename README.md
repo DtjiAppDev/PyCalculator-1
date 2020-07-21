@@ -12,3 +12,10 @@ Typing in anything besides 'Y' exits the application while typing in 'Y' will ma
 to evaluate.
 
 ![Getting Started](https://github.com/CreativeCloudAppDev2020/PyCalculator/blob/master/images/Getting%20Started.png)
+
+### Calculation Process
+
+Once you write your equation and then press enter, the application will display the equation you wrote and the result. An invalid equation will
+show NaN (i.e. not a number) as the result. The image below shows an example of how the calculation is being done.
+
+
