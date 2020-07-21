@@ -10,3 +10,5 @@ The executable file "PyCalculator.exe" is used to run the application. It is dow
 Once you run the application, you will be asked whether you want to continue using the application or not. The image below shows what appears. 
 Typing in anything besides 'Y' exits the application while typing in 'Y' will make you asked to enter an equation you want the calculator
 to evaluate.
+
+![Getting Started](https://github.com/CreativeCloudAppDev2020/PyCalculator/blob/master/images/Getting%20Started.png)
