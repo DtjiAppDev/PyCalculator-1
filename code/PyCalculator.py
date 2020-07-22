@@ -14,8 +14,8 @@ import math
 sys.modules['_decimal'] = None
 import decimal
 from decimal import *
-getcontext().Emin = -10 ** 8
-getcontext().Emax = 10 ** 8
+getcontext().Emin = -10 ** 17
+getcontext().Emax = 10 ** 17
 getcontext().traps[Overflow] = 0
 getcontext().traps[Underflow] = 0
 getcontext().traps[DivisionByZero] = 0
